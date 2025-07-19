@@ -33,7 +33,7 @@ El hallazgo más preocupante es la repetición casi exacta de cifras a lo largo 
 
 ---
 
-## ⚠️ Por Qué Es Sospechoso
+## ⚠️ Por qué es sospechoso
 
 - **Países ajenos a la migración venezolana**: sin rutas migratorias, vínculos históricos, lingüísticos o geopolíticos.
 - **Ausencia de adultos acompañantes**, lo que contradice los patrones habituales de asilo.
