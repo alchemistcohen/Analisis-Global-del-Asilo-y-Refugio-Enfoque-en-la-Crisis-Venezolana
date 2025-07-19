@@ -1,0 +1,545 @@
+Year,"Country of Asylum","Country of Origin","Country of Asylum ISO","Country of Origin ISO","Female 0 - 4","Female 5 - 11","Female 12 - 17","Female 18 - 59","Female 60+","Female Other","Female Total","Male 0 - 4","Male 5 - 11","Male 12 - 17","Male 18 - 59","Male 60+","Male Other","Male Total",Total
+2013,Argentina,"Venezuela (Bolivarian Republic of)",ARG,VEN,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2013,Australia,"Venezuela (Bolivarian Republic of)",AUS,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2013,Brazil,"Venezuela (Bolivarian Republic of)",BRA,VEN,0,8,0,0,0,0,8,0,0,0,15,0,0,15,23
+2013,Canada,"Venezuela (Bolivarian Republic of)",CAN,VEN,0,20,0,49,5,0,74,0,14,7,60,0,0,81,942
+2013,Colombia,"Venezuela (Bolivarian Republic of)",COL,VEN,0,11,0,10,0,0,21,0,0,0,10,0,0,10,31
+2013,"Costa Rica","Venezuela (Bolivarian Republic of)",CRI,VEN,6,11,11,75,0,0,103,7,13,13,98,5,0,136,239
+2013,Ecuador,"Venezuela (Bolivarian Republic of)",ECU,VEN,0,0,7,0,0,0,7,0,0,0,6,0,0,6,13
+2013,Finland,"Venezuela (Bolivarian Republic of)",FIN,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2013,France,"Venezuela (Bolivarian Republic of)",FRA,VEN,0,0,0,0,0,8,8,0,0,0,0,0,0,0,22
+2013,"United Kingdom of Great Britain and Northern Ireland","Venezuela (Bolivarian Republic of)",GBR,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+2013,Germany,"Venezuela (Bolivarian Republic of)",DEU,VEN,0,0,0,8,0,0,8,0,0,5,5,0,0,10,18
+2013,Greece,"Venezuela (Bolivarian Republic of)",GRC,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2013,Italy,"Venezuela (Bolivarian Republic of)",ITA,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+2013,Mexico,"Venezuela (Bolivarian Republic of)",MEX,VEN,0,0,0,5,0,0,5,0,0,0,5,0,0,5,15
+2013,Panama,"Venezuela (Bolivarian Republic of)",PAN,VEN,0,0,5,11,0,0,16,0,0,0,7,0,0,7,23
+2013,Peru,"Venezuela (Bolivarian Republic of)",PER,VEN,0,0,5,0,0,0,5,0,0,0,16,0,0,16,21
+2013,Spain,"Venezuela (Bolivarian Republic of)",ESP,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63
+2013,Sweden,"Venezuela (Bolivarian Republic of)",SWE,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+2013,Switzerland,"Venezuela (Bolivarian Republic of)",CHE,VEN,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2013,"United States of America","Venezuela (Bolivarian Republic of)",USA,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8060
+2014,Argentina,"Venezuela (Bolivarian Republic of)",ARG,VEN,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2014,Australia,"Venezuela (Bolivarian Republic of)",AUS,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+2014,Belgium,"Venezuela (Bolivarian Republic of)",BEL,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+2014,Brazil,"Venezuela (Bolivarian Republic of)",BRA,VEN,0,0,10,36,0,0,46,6,0,0,92,0,0,98,144
+2014,Canada,"Venezuela (Bolivarian Republic of)",CAN,VEN,10,14,0,53,0,0,77,0,9,8,69,0,0,86,941
+2014,Chile,"Venezuela (Bolivarian Republic of)",CHL,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2014,Colombia,"Venezuela (Bolivarian Republic of)",COL,VEN,5,0,7,16,0,0,28,5,5,5,27,0,0,42,70
+2014,"Costa Rica","Venezuela (Bolivarian Republic of)",CRI,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,306
+2014,Ecuador,"Venezuela (Bolivarian Republic of)",ECU,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2014,Finland,"Venezuela (Bolivarian Republic of)",FIN,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2014,France,"Venezuela (Bolivarian Republic of)",FRA,VEN,0,0,0,0,0,6,6,0,0,0,0,0,6,6,37
+2014,"United Kingdom of Great Britain and Northern Ireland","Venezuela (Bolivarian Republic of)",GBR,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45
+2014,Germany,"Venezuela (Bolivarian Republic of)",DEU,VEN,5,0,0,5,0,0,10,0,5,0,8,0,0,13,23
+2014,Ireland,"Venezuela (Bolivarian Republic of)",IRL,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21
+2014,Italy,"Venezuela (Bolivarian Republic of)",ITA,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31
+2014,Mexico,"Venezuela (Bolivarian Republic of)",MEX,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55
+2014,Norway,"Venezuela (Bolivarian Republic of)",NOR,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2014,Panama,"Venezuela (Bolivarian Republic of)",PAN,VEN,0,0,5,30,0,0,35,0,0,0,68,0,0,68,103
+2014,Peru,"Venezuela (Bolivarian Republic of)",PER,VEN,0,0,0,15,0,0,15,0,0,0,55,0,0,55,70
+2014,Spain,"Venezuela (Bolivarian Republic of)",ESP,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,164
+2014,Sweden,"Venezuela (Bolivarian Republic of)",SWE,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47
+2014,Switzerland,"Venezuela (Bolivarian Republic of)",CHE,VEN,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2014,"United States of America","Venezuela (Bolivarian Republic of)",USA,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10710
+2015,Argentina,"Venezuela (Bolivarian Republic of)",ARG,VEN,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2015,Australia,"Venezuela (Bolivarian Republic of)",AUS,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36
+2015,Austria,"Venezuela (Bolivarian Republic of)",AUT,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,Belgium,"Venezuela (Bolivarian Republic of)",BEL,VEN,0,0,0,0,0,6,6,0,0,0,0,0,0,0,27
+2015,Brazil,"Venezuela (Bolivarian Republic of)",BRA,VEN,0,77,10,216,7,0,310,0,64,6,600,6,0,676,986
+2015,Canada,"Venezuela (Bolivarian Republic of)",CAN,VEN,10,14,5,55,0,0,84,7,18,0,48,0,0,73,902
+2015,Chile,"Venezuela (Bolivarian Republic of)",CHL,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+2015,Colombia,"Venezuela (Bolivarian Republic of)",COL,VEN,6,7,5,28,0,0,46,5,0,16,45,0,0,66,112
+2015,"Costa Rica","Venezuela (Bolivarian Republic of)",CRI,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,420
+2015,"Curacao ","Venezuela (Bolivarian Republic of)",CUW,VEN,0,0,0,0,0,0,0,5,0,0,0,0,0,5,5
+2015,Czechia,"Venezuela (Bolivarian Republic of)",CZE,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,Ecuador,"Venezuela (Bolivarian Republic of)",ECU,VEN,0,0,7,0,0,0,7,0,0,0,0,0,0,0,7
+2015,Finland,"Venezuela (Bolivarian Republic of)",FIN,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,France,"Venezuela (Bolivarian Republic of)",FRA,VEN,0,0,0,0,0,15,15,0,0,0,0,0,17,17,68
+2015,"United Kingdom of Great Britain and Northern Ireland","Venezuela (Bolivarian Republic of)",GBR,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38
+2015,Germany,"Venezuela (Bolivarian Republic of)",DEU,VEN,5,0,0,9,0,0,14,0,0,0,24,0,0,24,43
+2015,Ireland,"Venezuela (Bolivarian Republic of)",IRL,VEN,0,0,0,14,0,0,14,5,0,0,12,0,0,17,31
+2015,Italy,"Venezuela (Bolivarian Republic of)",ITA,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59
+2015,Mexico,"Venezuela (Bolivarian Republic of)",MEX,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42
+2015,Malta,"Venezuela (Bolivarian Republic of)",MLT,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2015,Panama,"Venezuela (Bolivarian Republic of)",PAN,VEN,0,0,5,121,0,0,126,0,0,0,212,0,0,212,338
+2015,Peru,"Venezuela (Bolivarian Republic of)",PER,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,195
+2015,Spain,"Venezuela (Bolivarian Republic of)",ESP,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1783
+2015,Sweden,"Venezuela (Bolivarian Republic of)",SWE,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49
+2015,Switzerland,"Venezuela (Bolivarian Republic of)",CHE,VEN,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2015,"Trinidad and Tobago","Venezuela (Bolivarian Republic of)",TTO,VEN,5,0,0,0,0,0,5,0,0,0,0,0,0,0,5
+2015,Uruguay,"Venezuela (Bolivarian Republic of)",URY,VEN,0,0,0,10,0,0,10,0,0,0,0,0,0,0,10
+2015,"United States of America","Venezuela (Bolivarian Republic of)",USA,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17338
+2016,Aruba,"Venezuela (Bolivarian Republic of)",ABW,VEN,0,0,0,0,0,0,0,0,5,0,0,0,0,5,5
+2016,Argentina,"Venezuela (Bolivarian Republic of)",ARG,VEN,6,0,0,13,0,0,19,0,5,0,33,0,0,38,57
+2016,Australia,"Venezuela (Bolivarian Republic of)",AUS,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36
+2016,Austria,"Venezuela (Bolivarian Republic of)",AUT,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+2016,Belgium,"Venezuela (Bolivarian Republic of)",BEL,VEN,0,0,0,0,0,6,6,0,0,0,0,0,0,0,56
+2016,Brazil,"Venezuela (Bolivarian Republic of)",BRA,VEN,0,5,0,8,0,1378,1391,0,5,0,12,0,2924,2941,4332
+2016,Canada,"Venezuela (Bolivarian Republic of)",CAN,VEN,0,0,8,94,0,0,102,0,0,0,128,11,0,139,1318
+2016,Chile,"Venezuela (Bolivarian Republic of)",CHL,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,261
+2016,Colombia,"Venezuela (Bolivarian Republic of)",COL,VEN,11,21,22,99,0,0,153,15,16,13,117,0,53,214,367
+2016,"Costa Rica","Venezuela (Bolivarian Republic of)",CRI,VEN,0,0,0,0,0,581,581,0,0,0,0,0,876,876,1457
+2016,"Curacao ","Venezuela (Bolivarian Republic of)",CUW,VEN,0,0,0,5,0,0,5,5,0,0,8,0,0,13,18
+2016,Czechia,"Venezuela (Bolivarian Republic of)",CZE,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,Denmark,"Venezuela (Bolivarian Republic of)",DNK,VEN,0,0,0,0,0,0,0,0,0,0,0,0,7,7,7
+2016,"Dominican Rep.","Venezuela (Bolivarian Republic of)",DOM,VEN,0,0,0,5,0,0,5,0,5,0,10,0,0,15,20
+2016,Finland,"Venezuela (Bolivarian Republic of)",FIN,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,France,"Venezuela (Bolivarian Republic of)",FRA,VEN,0,0,0,0,0,23,23,0,0,0,0,0,25,25,189
+2016,"United Kingdom of Great Britain and Northern Ireland","Venezuela (Bolivarian Republic of)",GBR,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55
+2016,Germany,"Venezuela (Bolivarian Republic of)",DEU,VEN,8,5,5,33,0,0,51,5,5,0,58,0,0,68,119
+2016,Greece,"Venezuela (Bolivarian Republic of)",GRC,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2016,Guatemala,"Venezuela (Bolivarian Republic of)",GTM,VEN,0,0,6,0,0,0,6,0,0,0,0,0,0,0,6
+2016,Ireland,"Venezuela (Bolivarian Republic of)",IRL,VEN,0,0,0,10,0,0,10,0,0,0,26,0,0,26,36
+2016,Italy,"Venezuela (Bolivarian Republic of)",ITA,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,185
+2016,Mexico,"Venezuela (Bolivarian Republic of)",MEX,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,394
+2016,Malta,"Venezuela (Bolivarian Republic of)",MLT,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2016,"Netherlands (Kingdom of the)","Venezuela (Bolivarian Republic of)",NLD,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+2016,Norway,"Venezuela (Bolivarian Republic of)",NOR,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,Panama,"Venezuela (Bolivarian Republic of)",PAN,VEN,31,18,30,184,5,0,268,39,38,24,351,5,0,457,725
+2016,Paraguay,"Venezuela (Bolivarian Republic of)",PRY,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,Peru,"Venezuela (Bolivarian Republic of)",PER,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3700
+2016,Portugal,"Venezuela (Bolivarian Republic of)",PRT,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,Spain,"Venezuela (Bolivarian Republic of)",ESP,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4464
+2016,Sweden,"Venezuela (Bolivarian Republic of)",SWE,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,64
+2016,Switzerland,"Venezuela (Bolivarian Republic of)",CHE,VEN,0,5,0,5,0,0,10,0,0,0,0,0,0,0,10
+2016,"Trinidad and Tobago","Venezuela (Bolivarian Republic of)",TTO,VEN,0,5,0,11,0,0,16,0,5,0,13,0,0,18,34
+2016,Uruguay,"Venezuela (Bolivarian Republic of)",URY,VEN,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2016,"United States of America","Venezuela (Bolivarian Republic of)",USA,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34624
+2017,Aruba,"Venezuela (Bolivarian Republic of)",ABW,VEN,0,5,0,5,0,0,10,0,7,0,0,0,0,7,147
+2017,Albania,"Venezuela (Bolivarian Republic of)",ALB,VEN,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2017,Argentina,"Venezuela (Bolivarian Republic of)",ARG,VEN,7,7,5,49,0,0,68,5,6,0,99,0,0,110,56804
+2017,Australia,"Venezuela (Bolivarian Republic of)",AUS,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,106
+2017,Austria,"Venezuela (Bolivarian Republic of)",AUT,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+2017,Belgium,"Venezuela (Bolivarian Republic of)",BEL,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,226
+2017,Brazil,"Venezuela (Bolivarian Republic of)",BRA,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30815
+2017,Canada,"Venezuela (Bolivarian Republic of)",CAN,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2404
+2017,Chile,"Venezuela (Bolivarian Republic of)",CHL,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,86065
+2017,Colombia,"Venezuela (Bolivarian Republic of)",COL,VEN,5,0,9,5,7,0,26,11,0,7,12,5,0,35,69264
+2017,"Costa Rica","Venezuela (Bolivarian Republic of)",CRI,VEN,0,0,0,0,0,1512,1512,0,0,0,0,0,2264,2264,3776
+2017,"Curacao ","Venezuela (Bolivarian Republic of)",CUW,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,678
+2017,Czechia,"Venezuela (Bolivarian Republic of)",CZE,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,Denmark,"Venezuela (Bolivarian Republic of)",DNK,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+2017,"Dominican Rep.","Venezuela (Bolivarian Republic of)",DOM,VEN,0,9,0,10,0,0,19,0,5,5,21,0,0,31,50
+2017,Ecuador,"Venezuela (Bolivarian Republic of)",ECU,VEN,38,39,39,271,5,0,392,38,50,23,358,6,0,475,41867
+2017,Estonia,"Venezuela (Bolivarian Republic of)",EST,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2017,Finland,"Venezuela (Bolivarian Republic of)",FIN,VEN,0,0,0,0,0,5,5,0,0,0,0,0,6,6,16
+2017,France,"Venezuela (Bolivarian Republic of)",FRA,VEN,0,0,0,0,0,69,69,0,0,0,0,0,54,54,312
+2017,"United Kingdom of Great Britain and Northern Ireland","Venezuela (Bolivarian Republic of)",GBR,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54
+2017,Germany,"Venezuela (Bolivarian Republic of)",DEU,VEN,14,19,0,85,6,0,124,14,12,6,131,0,0,163,287
+2017,Greece,"Venezuela (Bolivarian Republic of)",GRC,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27
+2017,Guatemala,"Venezuela (Bolivarian Republic of)",GTM,VEN,0,0,0,0,0,13,13,0,0,0,0,0,5,5,18
+2017,Honduras,"Venezuela (Bolivarian Republic of)",HND,VEN,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2017,Ireland,"Venezuela (Bolivarian Republic of)",IRL,VEN,0,0,0,23,0,0,23,5,0,0,25,0,0,30,53
+2017,Italy,"Venezuela (Bolivarian Republic of)",ITA,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1092
+2017,"Rep. of Korea","Venezuela (Bolivarian Republic of)",KOR,VEN,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2017,Mexico,"Venezuela (Bolivarian Republic of)",MEX,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4368
+2017,Malta,"Venezuela (Bolivarian Republic of)",MLT,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36
+2017,"Netherlands (Kingdom of the)","Venezuela (Bolivarian Republic of)",NLD,VEN,0,0,0,0,0,21,21,0,0,0,0,0,25,25,46
+2017,Norway,"Venezuela (Bolivarian Republic of)",NOR,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2017,"New Zealand","Venezuela (Bolivarian Republic of)",NZL,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,Panama,"Venezuela (Bolivarian Republic of)",PAN,VEN,251,186,131,1128,20,0,1716,245,211,143,1382,23,0,2004,52620
+2017,Paraguay,"Venezuela (Bolivarian Republic of)",PRY,VEN,0,0,0,5,0,0,5,0,0,0,13,0,0,13,18
+2017,Peru,"Venezuela (Bolivarian Republic of)",PER,VEN,588,688,363,11033,130,0,12802,636,692,366,18533,91,0,20318,67535
+2017,Spain,"Venezuela (Bolivarian Republic of)",ESP,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12509
+2017,Sweden,"Venezuela (Bolivarian Republic of)",SWE,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,97
+2017,Switzerland,"Venezuela (Bolivarian Republic of)",CHE,VEN,0,5,0,8,0,0,13,0,0,0,11,0,0,11,24
+2017,"Trinidad and Tobago","Venezuela (Bolivarian Republic of)",TTO,VEN,23,23,21,408,0,0,475,26,16,19,612,7,0,680,1155
+2017,Uruguay,"Venezuela (Bolivarian Republic of)",URY,VEN,0,0,5,12,5,0,22,0,0,0,16,0,0,16,6195
+2017,"United States of America","Venezuela (Bolivarian Republic of)",USA,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,64213
+2018,Aruba,"Venezuela (Bolivarian Republic of)",ABW,VEN,13,15,9,143,9,0,189,7,18,10,174,0,0,209,16000
+2018,Albania,"Venezuela (Bolivarian Republic of)",ALB,VEN,0,0,5,0,0,0,5,0,0,0,0,0,0,0,5
+2018,Argentina,"Venezuela (Bolivarian Republic of)",ARG,VEN,49,52,30,294,9,0,434,69,55,25,433,10,0,592,128183
+2018,Australia,"Venezuela (Bolivarian Republic of)",AUS,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,181
+2018,Austria,"Venezuela (Bolivarian Republic of)",AUT,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30
+2018,Belgium,"Venezuela (Bolivarian Republic of)",BEL,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,391
+2018,Brazil,"Venezuela (Bolivarian Republic of)",BRA,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,120807
+2018,Canada,"Venezuela (Bolivarian Republic of)",CAN,VEN,6,23,15,133,7,0,184,9,23,16,136,10,0,194,3550
+2018,Chile,"Venezuela (Bolivarian Republic of)",CHL,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,288233
+2018,Colombia,"Venezuela (Bolivarian Republic of)",COL,VEN,123,193,107,872,23,609207,610525,166,147,109,985,24,562345,563776,1174375
+2018,"Costa Rica","Venezuela (Bolivarian Republic of)",CRI,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5709
+2018,"Curacao ","Venezuela (Bolivarian Republic of)",CUW,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26000
+2018,Czechia,"Venezuela (Bolivarian Republic of)",CZE,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2018,Denmark,"Venezuela (Bolivarian Republic of)",DNK,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+2018,"Dominican Rep.","Venezuela (Bolivarian Republic of)",DOM,VEN,5,6,0,19,0,0,30,5,5,0,32,0,0,42,26500
+2018,Ecuador,"Venezuela (Bolivarian Republic of)",ECU,VEN,279,305,160,2172,55,0,2971,287,337,166,2503,38,0,3331,262572
+2018,Finland,"Venezuela (Bolivarian Republic of)",FIN,VEN,0,0,0,0,0,8,8,0,0,0,0,0,0,0,13
+2018,France,"Venezuela (Bolivarian Republic of)",FRA,VEN,0,0,0,0,0,169,169,0,0,0,0,0,135,135,707
+2018,"United Kingdom of Great Britain and Northern Ireland","Venezuela (Bolivarian Republic of)",GBR,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,62
+2018,Germany,"Venezuela (Bolivarian Republic of)",DEU,VEN,23,24,24,194,28,0,293,26,33,19,275,5,0,358,651
+2018,Greece,"Venezuela (Bolivarian Republic of)",GRC,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40
+2018,Guatemala,"Venezuela (Bolivarian Republic of)",GTM,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34
+2018,Guyana,"Venezuela (Bolivarian Republic of)",GUY,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36400
+2018,Honduras,"Venezuela (Bolivarian Republic of)",HND,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2018,Iceland,"Venezuela (Bolivarian Republic of)",ISL,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+2018,Ireland,"Venezuela (Bolivarian Republic of)",IRL,VEN,0,0,0,36,0,0,36,0,0,5,42,5,0,52,88
+2018,Israel,"Venezuela (Bolivarian Republic of)",ISR,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2018,Italy,"Venezuela (Bolivarian Republic of)",ITA,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1667
+2018,"Rep. of Korea","Venezuela (Bolivarian Republic of)",KOR,VEN,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2018,Luxembourg,"Venezuela (Bolivarian Republic of)",LUX,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2018,Mexico,"Venezuela (Bolivarian Republic of)",MEX,VEN,120,218,131,1952,94,0,2515,148,218,163,2407,72,0,3008,52348
+2018,Malta,"Venezuela (Bolivarian Republic of)",MLT,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,66
+2018,"Netherlands (Kingdom of the)","Venezuela (Bolivarian Republic of)",NLD,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,128
+2018,Norway,"Venezuela (Bolivarian Republic of)",NOR,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31
+2018,Panama,"Venezuela (Bolivarian Republic of)",PAN,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,99514
+2018,Paraguay,"Venezuela (Bolivarian Republic of)",PRY,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,916
+2018,Peru,"Venezuela (Bolivarian Republic of)",PER,VEN,3513,4154,2410,79402,1083,0,90562,3772,4361,2702,125190,738,0,136763,656274
+2018,"Russian Federation","Venezuela (Bolivarian Republic of)",RUS,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2018,Spain,"Venezuela (Bolivarian Republic of)",ESP,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31692
+2018,Suriname,"Venezuela (Bolivarian Republic of)",SUR,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40
+2018,Sweden,"Venezuela (Bolivarian Republic of)",SWE,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,154
+2018,Switzerland,"Venezuela (Bolivarian Republic of)",CHE,VEN,0,11,0,12,0,0,23,0,0,5,17,0,0,22,45
+2018,"Trinidad and Tobago","Venezuela (Bolivarian Republic of)",TTO,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39999
+2018,Uruguay,"Venezuela (Bolivarian Republic of)",URY,VEN,0,0,10,19,5,0,34,0,0,5,29,0,0,34,11673
+2018,"United States of America","Venezuela (Bolivarian Republic of)",USA,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,93059
+2019,Aruba,"Venezuela (Bolivarian Republic of)",ABW,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17000
+2019,Anguilla,"Venezuela (Bolivarian Republic of)",AIA,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+2019,Albania,"Venezuela (Bolivarian Republic of)",ALB,VEN,0,0,5,0,0,0,5,0,0,0,0,0,0,0,5
+2019,Argentina,"Venezuela (Bolivarian Republic of)",ARG,VEN,149,160,89,966,60,0,1424,193,177,76,1112,35,0,1593,176369
+2019,Australia,"Venezuela (Bolivarian Republic of)",AUS,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,346
+2019,Austria,"Venezuela (Bolivarian Republic of)",AUT,VEN,0,0,0,0,0,14,14,0,0,0,0,0,15,15,60
+2019,Barbados,"Venezuela (Bolivarian Republic of)",BRB,VEN,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2019,Belgium,"Venezuela (Bolivarian Republic of)",BEL,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,595
+2019,"Bolivia (Plurinational State of)","Venezuela (Bolivarian Republic of)",BOL,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5707
+2019,Brazil,"Venezuela (Bolivarian Republic of)",BRA,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,248105
+2019,Canada,"Venezuela (Bolivarian Republic of)",CAN,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4455
+2019,"Cayman Islands","Venezuela (Bolivarian Republic of)",CYM,VEN,0,0,0,0,0,0,0,0,0,0,0,0,52,52,52
+2019,Chile,"Venezuela (Bolivarian Republic of)",CHL,VEN,175,209,78,3294,145,0,3901,186,213,94,2743,100,0,3336,455494
+2019,Colombia,"Venezuela (Bolivarian Republic of)",COL,VEN,35,88,73,1094,28,853451,854769,50,101,44,1039,35,924448,925717,1780486
+2019,"Costa Rica","Venezuela (Bolivarian Republic of)",CRI,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28214
+2019,"Curacao ","Venezuela (Bolivarian Republic of)",CUW,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16500
+2019,Cyprus,"Venezuela (Bolivarian Republic of)",CYP,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,Czechia,"Venezuela (Bolivarian Republic of)",CZE,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35
+2019,Denmark,"Venezuela (Bolivarian Republic of)",DNK,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+2019,"Dominican Rep.","Venezuela (Bolivarian Republic of)",DOM,VEN,1118,1118,2005,13059,806,0,18106,1261,1262,1538,10895,1000,0,15956,34062
+2019,Ecuador,"Venezuela (Bolivarian Republic of)",ECU,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,388861
+2019,Finland,"Venezuela (Bolivarian Republic of)",FIN,VEN,0,0,0,0,0,6,6,0,0,0,0,0,7,7,20
+2019,France,"Venezuela (Bolivarian Republic of)",FRA,VEN,0,0,0,0,0,303,303,0,0,0,0,0,248,248,1227
+2019,"United Kingdom of Great Britain and Northern Ireland","Venezuela (Bolivarian Republic of)",GBR,VEN,0,0,0,0,0,23,23,0,0,0,0,0,19,19,93
+2019,Germany,"Venezuela (Bolivarian Republic of)",DEU,VEN,38,62,41,388,52,0,581,35,65,41,503,18,0,662,1243
+2019,Greece,"Venezuela (Bolivarian Republic of)",GRC,VEN,0,0,0,0,0,23,23,0,0,0,0,0,11,11,40
+2019,Guatemala,"Venezuela (Bolivarian Republic of)",GTM,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,72
+2019,Guyana,"Venezuela (Bolivarian Republic of)",GUY,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22000
+2019,Honduras,"Venezuela (Bolivarian Republic of)",HND,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2019,Iceland,"Venezuela (Bolivarian Republic of)",ISL,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,196
+2019,India,"Venezuela (Bolivarian Republic of)",IND,VEN,0,0,0,9,0,0,9,0,0,0,0,0,0,0,9
+2019,Ireland,"Venezuela (Bolivarian Republic of)",IRL,VEN,0,5,0,46,10,0,61,6,0,5,78,0,0,89,150
+2019,Israel,"Venezuela (Bolivarian Republic of)",ISR,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,Italy,"Venezuela (Bolivarian Republic of)",ITA,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2568
+2019,Jamaica,"Venezuela (Bolivarian Republic of)",JAM,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,121
+2019,Jordan,"Venezuela (Bolivarian Republic of)",JOR,VEN,0,0,0,0,0,0,0,0,0,5,0,0,0,5,5
+2019,"Rep. of Korea","Venezuela (Bolivarian Republic of)",KOR,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+2019,Luxembourg,"Venezuela (Bolivarian Republic of)",LUX,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70
+2019,Mexico,"Venezuela (Bolivarian Republic of)",MEX,VEN,167,331,215,3184,181,0,4078,201,329,258,3624,124,0,4536,70377
+2019,Malta,"Venezuela (Bolivarian Republic of)",MLT,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70
+2019,"Netherlands (Kingdom of the)","Venezuela (Bolivarian Republic of)",NLD,VEN,0,0,0,0,0,118,118,0,0,0,0,0,89,89,220
+2019,Norway,"Venezuela (Bolivarian Republic of)",NOR,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39
+2019,Panama,"Venezuela (Bolivarian Republic of)",PAN,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,119553
+2019,Paraguay,"Venezuela (Bolivarian Republic of)",PRY,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4346
+2019,Peru,"Venezuela (Bolivarian Republic of)",PER,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,861665
+2019,Poland,"Venezuela (Bolivarian Republic of)",POL,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,Portugal,"Venezuela (Bolivarian Republic of)",PRT,VEN,0,0,0,0,0,36,36,0,0,0,0,0,31,31,67
+2019,Spain,"Venezuela (Bolivarian Republic of)",ESP,VEN,0,0,0,0,0,18015,18015,0,0,0,0,0,15945,15945,69203
+2019,Suriname,"Venezuela (Bolivarian Republic of)",SUR,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,223
+2019,Sweden,"Venezuela (Bolivarian Republic of)",SWE,VEN,0,0,0,0,0,116,116,0,0,0,0,0,104,104,233
+2019,Switzerland,"Venezuela (Bolivarian Republic of)",CHE,VEN,0,0,5,25,0,0,30,0,0,0,29,0,0,29,64
+2019,"Trinidad and Tobago","Venezuela (Bolivarian Republic of)",TTO,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24000
+2019,Uruguay,"Venezuela (Bolivarian Republic of)",URY,VEN,37,39,15,142,14,0,247,48,51,15,180,5,0,299,14908
+2019,"United States of America","Venezuela (Bolivarian Republic of)",USA,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,120695
+2019,"Saint Vincent and the Grenadines","Venezuela (Bolivarian Republic of)",VCT,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38
+2019,"Venezuela (Bolivarian Republic of)","Venezuela (Bolivarian Republic of)",VEN,VEN,0,45890,57362,169219,14341,0,286812,0,33231,41538,122538,10384,0,207691,494503
+2020,Aruba,"Venezuela (Bolivarian Republic of)",ABW,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17000
+2020,Anguilla,"Venezuela (Bolivarian Republic of)",AIA,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21
+2020,Albania,"Venezuela (Bolivarian Republic of)",ALB,VEN,0,0,5,0,0,0,5,0,0,0,0,0,0,0,5
+2020,Argentina,"Venezuela (Bolivarian Republic of)",ARG,VEN,168,230,121,1373,95,0,1987,207,268,113,1495,60,0,2143,175797
+2020,Australia,"Venezuela (Bolivarian Republic of)",AUS,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,449
+2020,Austria,"Venezuela (Bolivarian Republic of)",AUT,VEN,0,0,0,0,0,17,17,0,0,0,0,0,17,17,95
+2020,Barbados,"Venezuela (Bolivarian Republic of)",BRB,VEN,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2020,Belgium,"Venezuela (Bolivarian Republic of)",BEL,VEN,0,0,0,0,0,465,465,0,0,0,0,0,439,439,904
+2020,"Bolivia (Plurinational State of)","Venezuela (Bolivarian Republic of)",BOL,VEN,25,38,11,119,0,0,193,29,30,17,125,5,0,206,9956
+2020,Brazil,"Venezuela (Bolivarian Republic of)",BRA,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,301363
+2020,Bulgaria,"Venezuela (Bolivarian Republic of)",BGR,VEN,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5
+2020,Canada,"Venezuela (Bolivarian Republic of)",CAN,VEN,23,75,39,482,76,168,863,23,79,29,398,109,44,682,4524
+2020,"Cayman Islands","Venezuela (Bolivarian Republic of)",CYM,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39
+2020,Chile,"Venezuela (Bolivarian Republic of)",CHL,VEN,1563,1615,1011,15737,1368,0,21294,1536,1752,781,10508,1039,0,15616,457324
+2020,Colombia,"Venezuela (Bolivarian Republic of)",COL,VEN,66360,75198,64526,630292,26282,0,862658,65285,74602,64054,662773,20523,0,887237,1749895
+2020,"Costa Rica","Venezuela (Bolivarian Republic of)",CRI,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29089
+2020,"Curacao ","Venezuela (Bolivarian Republic of)",CUW,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17000
+2020,Czechia,"Venezuela (Bolivarian Republic of)",CZE,VEN,0,0,0,0,0,5,5,0,0,0,0,0,8,8,18
+2020,Denmark,"Venezuela (Bolivarian Republic of)",DNK,VEN,0,0,0,0,0,5,5,0,0,0,0,0,6,6,16
+2020,"Dominican Rep.","Venezuela (Bolivarian Republic of)",DOM,VEN,9124,10131,8129,37964,1848,70,67266,3231,9701,6469,24432,3153,73,47059,114325
+2020,Ecuador,"Venezuela (Bolivarian Republic of)",ECU,VEN,505,962,596,4722,142,204666,211593,537,1013,520,4947,109,197116,204242,415835
+2020,Finland,"Venezuela (Bolivarian Republic of)",FIN,VEN,0,0,0,0,0,0,0,0,0,0,0,0,9,9,16
+2020,France,"Venezuela (Bolivarian Republic of)",FRA,VEN,0,0,0,0,0,232,232,0,0,0,0,0,516,516,1526
+2020,"United Kingdom of Great Britain and Northern Ireland","Venezuela (Bolivarian Republic of)",GBR,VEN,0,0,0,0,0,13,13,0,0,0,0,0,28,28,102
+2020,Germany,"Venezuela (Bolivarian Republic of)",DEU,VEN,42,67,55,459,60,0,683,46,79,49,622,26,0,822,1505
+2020,Greece,"Venezuela (Bolivarian Republic of)",GRC,VEN,0,0,0,0,0,13,13,0,0,0,0,0,7,7,33
+2020,Grenada,"Venezuela (Bolivarian Republic of)",GRD,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,234
+2020,Guatemala,"Venezuela (Bolivarian Republic of)",GTM,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,103
+2020,Guyana,"Venezuela (Bolivarian Republic of)",GUY,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23307
+2020,Honduras,"Venezuela (Bolivarian Republic of)",HND,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+2020,Iceland,"Venezuela (Bolivarian Republic of)",ISL,VEN,0,0,0,0,0,5,5,0,0,0,0,0,5,5,304
+2020,India,"Venezuela (Bolivarian Republic of)",IND,VEN,0,0,0,11,0,0,11,0,0,0,0,0,0,0,11
+2020,Indonesia,"Venezuela (Bolivarian Republic of)",IDN,VEN,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2020,Ireland,"Venezuela (Bolivarian Republic of)",IRL,VEN,0,7,0,65,14,0,86,9,0,0,86,10,0,105,191
+2020,Israel,"Venezuela (Bolivarian Republic of)",ISR,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2020,Italy,"Venezuela (Bolivarian Republic of)",ITA,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2899
+2020,Jamaica,"Venezuela (Bolivarian Republic of)",JAM,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,67
+2020,Jordan,"Venezuela (Bolivarian Republic of)",JOR,VEN,0,0,0,0,0,0,0,0,0,5,0,0,0,5,5
+2020,"Rep. of Korea","Venezuela (Bolivarian Republic of)",KOR,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+2020,Lebanon,"Venezuela (Bolivarian Republic of)",LBN,VEN,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2020,Luxembourg,"Venezuela (Bolivarian Republic of)",LUX,VEN,0,0,0,0,0,35,35,0,0,0,0,0,44,44,79
+2020,Mexico,"Venezuela (Bolivarian Republic of)",MEX,VEN,129,287,155,2700,172,0,3443,152,283,217,3155,112,0,3919,102223
+2020,Montenegro,"Venezuela (Bolivarian Republic of)",MNE,VEN,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2020,Malta,"Venezuela (Bolivarian Republic of)",MLT,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,74
+2020,"Netherlands (Kingdom of the)","Venezuela (Bolivarian Republic of)",NLD,VEN,0,0,0,0,0,104,104,0,0,0,0,0,93,93,227
+2020,Norway,"Venezuela (Bolivarian Republic of)",NOR,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+2020,Panama,"Venezuela (Bolivarian Republic of)",PAN,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,121598
+2020,Paraguay,"Venezuela (Bolivarian Republic of)",PRY,VEN,50,86,65,606,33,0,840,58,103,59,910,21,0,1151,4925
+2020,Peru,"Venezuela (Bolivarian Republic of)",PER,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1049970
+2020,Poland,"Venezuela (Bolivarian Republic of)",POL,VEN,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5
+2020,Portugal,"Venezuela (Bolivarian Republic of)",PRT,VEN,0,0,0,0,0,24,24,0,0,0,0,0,52,52,76
+2020,"El Salvador","Venezuela (Bolivarian Republic of)",SLV,VEN,0,0,5,0,0,0,5,0,0,0,11,0,0,11,16
+2020,Spain,"Venezuela (Bolivarian Republic of)",ESP,VEN,0,0,0,0,0,8579,8579,0,0,0,0,0,10486,10486,94705
+2020,"Saint Kitts and Nevis","Venezuela (Bolivarian Republic of)",KNA,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+2020,Suriname,"Venezuela (Bolivarian Republic of)",SUR,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,279
+2020,Sweden,"Venezuela (Bolivarian Republic of)",SWE,VEN,0,0,0,0,0,37,37,0,0,0,0,0,57,57,122
+2020,Switzerland,"Venezuela (Bolivarian Republic of)",CHE,VEN,0,0,0,11,10,0,21,0,0,0,27,0,0,27,62
+2020,"Sint Maarten (Dutch part)","Venezuela (Bolivarian Republic of)",SXM,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2020,"Trinidad and Tobago","Venezuela (Bolivarian Republic of)",TTO,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24168
+2020,Uruguay,"Venezuela (Bolivarian Republic of)",URY,VEN,39,64,24,228,22,0,377,41,79,31,321,12,0,484,14924
+2020,"United States of America","Venezuela (Bolivarian Republic of)",USA,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,146959
+2020,"Saint Vincent and the Grenadines","Venezuela (Bolivarian Republic of)",VCT,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+2020,"Venezuela (Bolivarian Republic of)","Venezuela (Bolivarian Republic of)",VEN,VEN,39179,57065,95084,405511,44397,0,641236,36915,52284,76599,265978,39505,0,471281,1112517
+2021,Aruba,"Venezuela (Bolivarian Republic of)",ABW,VEN,0,0,0,0,0,8959,8959,0,0,0,0,0,8041,8041,17000
+2021,Anguilla,"Venezuela (Bolivarian Republic of)",AIA,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+2021,Albania,"Venezuela (Bolivarian Republic of)",ALB,VEN,0,0,5,0,0,0,5,0,0,0,0,0,0,0,5
+2021,Argentina,"Venezuela (Bolivarian Republic of)",ARG,VEN,143,364,190,1986,135,83134,85952,189,396,206,2191,87,81488,84557,170517
+2021,Australia,"Venezuela (Bolivarian Republic of)",AUS,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,479
+2021,Austria,"Venezuela (Bolivarian Republic of)",AUT,VEN,0,0,0,0,0,16,16,0,0,0,0,0,16,16,115
+2021,Barbados,"Venezuela (Bolivarian Republic of)",BRB,VEN,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2021,Belgium,"Venezuela (Bolivarian Republic of)",BEL,VEN,0,0,0,0,0,130,130,0,0,0,0,0,120,120,729
+2021,"Bolivia (Plurinational State of)","Venezuela (Bolivarian Republic of)",BOL,VEN,0,0,0,0,0,5559,5559,0,0,0,0,0,6269,6269,12071
+2021,Brazil,"Venezuela (Bolivarian Republic of)",BRA,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,310661
+2021,Bulgaria,"Venezuela (Bolivarian Republic of)",BGR,VEN,0,0,0,0,0,5,5,0,0,0,0,0,0,0,5
+2021,Canada,"Venezuela (Bolivarian Republic of)",CAN,VEN,26,85,54,626,289,27,1107,23,98,52,531,151,26,881,4856
+2021,"Cayman Islands","Venezuela (Bolivarian Republic of)",CYM,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,92
+2021,Chile,"Venezuela (Bolivarian Republic of)",CHL,VEN,95,283,146,1844,95,247635,250098,95,236,146,1749,47,252636,254909,505007
+2021,Colombia,"Venezuela (Bolivarian Republic of)",COL,VEN,63990,97091,87350,657696,29555,1225,936907,71532,107336,94989,639237,21385,1086,935565,1872472
+2021,"Costa Rica","Venezuela (Bolivarian Republic of)",CRI,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30546
+2021,"Curacao ","Venezuela (Bolivarian Republic of)",CUW,VEN,0,0,0,0,0,9690,9690,0,0,0,0,0,7310,7310,17000
+2021,Czechia,"Venezuela (Bolivarian Republic of)",CZE,VEN,0,0,0,0,0,0,0,0,0,7,0,0,0,7,15
+2021,Denmark,"Venezuela (Bolivarian Republic of)",DNK,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2021,"Dominican Rep.","Venezuela (Bolivarian Republic of)",DOM,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,116278
+2021,Ecuador,"Venezuela (Bolivarian Republic of)",ECU,VEN,106,321,199,1746,57,271824,274253,127,372,185,1893,47,232058,234682,508935
+2021,Finland,"Venezuela (Bolivarian Republic of)",FIN,VEN,0,0,0,0,0,6,6,0,0,0,0,0,0,0,13
+2021,France,"Venezuela (Bolivarian Republic of)",FRA,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1657
+2021,"United Kingdom of Great Britain and Northern Ireland","Venezuela (Bolivarian Republic of)",GBR,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,98
+2021,Germany,"Venezuela (Bolivarian Republic of)",DEU,VEN,44,82,66,584,81,0,857,51,90,57,747,39,0,984,1841
+2021,Greece,"Venezuela (Bolivarian Republic of)",GRC,VEN,0,0,0,0,0,5,5,0,0,0,0,0,0,0,19
+2021,Grenada,"Venezuela (Bolivarian Republic of)",GRD,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,234
+2021,Guatemala,"Venezuela (Bolivarian Republic of)",GTM,VEN,0,8,11,50,8,633,710,0,16,0,64,5,836,921,1631
+2021,Guyana,"Venezuela (Bolivarian Republic of)",GUY,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25800
+2021,Honduras,"Venezuela (Bolivarian Republic of)",HND,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+2021,Iceland,"Venezuela (Bolivarian Republic of)",ISL,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,619
+2021,India,"Venezuela (Bolivarian Republic of)",IND,VEN,0,0,0,11,0,0,11,0,0,0,0,0,0,0,11
+2021,Indonesia,"Venezuela (Bolivarian Republic of)",IDN,VEN,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2021,Ireland,"Venezuela (Bolivarian Republic of)",IRL,VEN,0,7,5,67,12,0,91,5,5,0,95,5,0,110,201
+2021,Israel,"Venezuela (Bolivarian Republic of)",ISR,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2021,Italy,"Venezuela (Bolivarian Republic of)",ITA,VEN,0,0,0,0,0,231,231,0,0,0,0,0,160,160,3297
+2021,Jamaica,"Venezuela (Bolivarian Republic of)",JAM,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,67
+2021,Jordan,"Venezuela (Bolivarian Republic of)",JOR,VEN,0,0,0,0,0,0,0,0,0,5,0,0,0,5,5
+2021,Kyrgyzstan,"Venezuela (Bolivarian Republic of)",KGZ,VEN,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2021,"Rep. of Korea","Venezuela (Bolivarian Republic of)",KOR,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+2021,Lebanon,"Venezuela (Bolivarian Republic of)",LBN,VEN,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2021,Luxembourg,"Venezuela (Bolivarian Republic of)",LUX,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,108
+2021,Mexico,"Venezuela (Bolivarian Republic of)",MEX,VEN,347,1110,657,9953,880,0,12947,393,1058,774,10143,482,0,12850,88976
+2021,Montenegro,"Venezuela (Bolivarian Republic of)",MNE,VEN,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2021,Malta,"Venezuela (Bolivarian Republic of)",MLT,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,82
+2021,"Netherlands (Kingdom of the)","Venezuela (Bolivarian Republic of)",NLD,VEN,0,0,0,0,0,33,33,0,0,0,0,0,34,34,174
+2021,Norway,"Venezuela (Bolivarian Republic of)",NOR,VEN,0,0,0,0,0,10,10,0,0,0,0,0,12,12,41
+2021,"New Zealand","Venezuela (Bolivarian Republic of)",NZL,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2021,Panama,"Venezuela (Bolivarian Republic of)",PAN,VEN,0,0,0,0,0,63232,63232,0,0,0,0,0,64768,64768,130514
+2021,Paraguay,"Venezuela (Bolivarian Republic of)",PRY,VEN,84,186,129,1203,92,862,2556,89,209,127,1676,57,1048,3206,5762
+2021,Peru,"Venezuela (Bolivarian Republic of)",PER,VEN,5223,15257,7682,200550,5340,0,234052,5510,15739,8228,268810,3581,0,301868,1327362
+2021,Poland,"Venezuela (Bolivarian Republic of)",POL,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+2021,Portugal,"Venezuela (Bolivarian Republic of)",PRT,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76
+2021,"El Salvador","Venezuela (Bolivarian Republic of)",SLV,VEN,0,0,5,5,0,0,10,0,0,0,15,0,0,15,25
+2021,Spain,"Venezuela (Bolivarian Republic of)",ESP,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,107697
+2021,"Saint Kitts and Nevis","Venezuela (Bolivarian Republic of)",KNA,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60
+2021,Suriname,"Venezuela (Bolivarian Republic of)",SUR,VEN,6,11,7,229,0,0,253,8,17,11,54,0,0,90,343
+2021,Sweden,"Venezuela (Bolivarian Republic of)",SWE,VEN,0,0,0,0,0,20,20,0,0,0,0,0,21,21,82
+2021,Switzerland,"Venezuela (Bolivarian Republic of)",CHE,VEN,0,0,0,20,10,0,30,0,6,0,38,0,0,44,98
+2021,"Sint Maarten (Dutch part)","Venezuela (Bolivarian Republic of)",SXM,VEN,5,0,0,12,0,0,17,0,5,0,19,0,0,24,41
+2021,"Trinidad and Tobago","Venezuela (Bolivarian Republic of)",TTO,VEN,0,0,0,0,0,4538,4538,0,0,0,0,0,3865,3865,29946
+2021,Uruguay,"Venezuela (Bolivarian Republic of)",URY,VEN,63,164,80,758,46,7885,8996,71,161,86,1028,21,7110,8477,17473
+2021,"United States of America","Venezuela (Bolivarian Republic of)",USA,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,265480
+2021,"Saint Vincent and the Grenadines","Venezuela (Bolivarian Republic of)",VCT,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2021,"Venezuela (Bolivarian Republic of)","Venezuela (Bolivarian Republic of)",VEN,VEN,35606,56589,92107,576064,53045,0,813411,34214,53518,78698,365551,44588,0,576569,1389980
+2022,Aruba,"Venezuela (Bolivarian Republic of)",ABW,VEN,0,0,0,0,0,9000,9000,0,0,0,0,0,8000,8000,17000
+2022,Anguilla,"Venezuela (Bolivarian Republic of)",AIA,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+2022,Albania,"Venezuela (Bolivarian Republic of)",ALB,VEN,0,0,5,0,0,0,5,0,0,0,0,0,0,0,5
+2022,"Antigua and Barbuda","Venezuela (Bolivarian Republic of)",ATG,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54
+2022,Argentina,"Venezuela (Bolivarian Republic of)",ARG,VEN,81,395,222,68996,157,14049,83900,93,468,207,69885,99,16390,87142,171050
+2022,Australia,"Venezuela (Bolivarian Republic of)",AUS,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,504
+2022,Austria,"Venezuela (Bolivarian Republic of)",AUT,VEN,0,0,0,0,0,37,37,0,0,0,0,0,20,20,161
+2022,Belgium,"Venezuela (Bolivarian Republic of)",BEL,VEN,0,0,0,0,0,422,422,0,0,0,0,0,436,436,858
+2022,"Bolivia (Plurinational State of)","Venezuela (Bolivarian Republic of)",BOL,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13774
+2022,Brazil,"Venezuela (Bolivarian Republic of)",BRA,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,414502
+2022,Canada,"Venezuela (Bolivarian Republic of)",CAN,VEN,12,106,83,750,359,0,1310,16,100,102,792,188,0,1198,3601
+2022,"Cayman Islands","Venezuela (Bolivarian Republic of)",CYM,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,144
+2022,Chile,"Venezuela (Bolivarian Republic of)",CHL,VEN,155,438,207,2970,189,228168,232127,116,411,224,2775,93,208677,212296,444423
+2022,Colombia,"Venezuela (Bolivarian Republic of)",COL,VEN,124208,126024,125218,867904,43490,2540,1289384,125144,126870,126018,778879,28740,2553,1188204,2477588
+2022,"Costa Rica","Venezuela (Bolivarian Republic of)",CRI,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30107
+2022,"Curacao ","Venezuela (Bolivarian Republic of)",CUW,VEN,0,0,0,0,0,8000,8000,0,0,0,0,0,6000,6000,14000
+2022,Czechia,"Venezuela (Bolivarian Republic of)",CZE,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+2022,Denmark,"Venezuela (Bolivarian Republic of)",DNK,VEN,0,0,0,0,0,0,0,0,0,0,0,0,7,7,12
+2022,"Dominican Rep.","Venezuela (Bolivarian Republic of)",DOM,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,115283
+2022,Ecuador,"Venezuela (Bolivarian Republic of)",ECU,VEN,109,517,351,2309,87,267020,270393,110,533,385,2444,65,228284,231821,502214
+2022,Finland,"Venezuela (Bolivarian Republic of)",FIN,VEN,0,0,0,0,0,12,12,0,0,0,0,0,5,5,22
+2022,France,"Venezuela (Bolivarian Republic of)",FRA,VEN,0,0,0,0,0,893,893,0,0,0,0,0,788,788,2192
+2022,"United Kingdom of Great Britain and Northern Ireland","Venezuela (Bolivarian Republic of)",GBR,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,110
+2022,Germany,"Venezuela (Bolivarian Republic of)",DEU,VEN,77,151,111,1030,146,0,1515,74,170,116,1229,69,0,1658,3173
+2022,Greece,"Venezuela (Bolivarian Republic of)",GRC,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+2022,Grenada,"Venezuela (Bolivarian Republic of)",GRD,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,234
+2022,Guatemala,"Venezuela (Bolivarian Republic of)",GTM,VEN,166,178,1112,3636,10,0,5102,213,238,1467,4810,5,0,6733,11835
+2022,Guyana,"Venezuela (Bolivarian Republic of)",GUY,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19642
+2022,Honduras,"Venezuela (Bolivarian Republic of)",HND,VEN,0,0,0,14,0,0,14,0,0,5,19,0,0,24,55097
+2022,Iceland,"Venezuela (Bolivarian Republic of)",ISL,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1768
+2022,India,"Venezuela (Bolivarian Republic of)",IND,VEN,0,0,0,11,0,0,11,0,0,0,0,0,0,0,11
+2022,Indonesia,"Venezuela (Bolivarian Republic of)",IDN,VEN,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2022,Ireland,"Venezuela (Bolivarian Republic of)",IRL,VEN,0,5,5,71,18,0,99,5,0,5,96,5,0,111,210
+2022,Italy,"Venezuela (Bolivarian Republic of)",ITA,VEN,0,0,0,0,0,605,605,0,0,0,0,0,479,479,4510
+2022,Jamaica,"Venezuela (Bolivarian Republic of)",JAM,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,67
+2022,Jordan,"Venezuela (Bolivarian Republic of)",JOR,VEN,0,0,0,0,0,0,0,0,0,5,0,0,0,5,5
+2022,Kyrgyzstan,"Venezuela (Bolivarian Republic of)",KGZ,VEN,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2022,Luxembourg,"Venezuela (Bolivarian Republic of)",LUX,VEN,0,0,0,0,0,82,82,0,0,0,0,0,98,98,188
+2022,Mexico,"Venezuela (Bolivarian Republic of)",MEX,VEN,507,1590,988,13263,1006,0,17354,551,1583,1204,17085,555,0,20978,205631
+2022,Malta,"Venezuela (Bolivarian Republic of)",MLT,VEN,0,0,0,0,0,23,23,0,0,0,0,0,20,20,67
+2022,"Netherlands (Kingdom of the)","Venezuela (Bolivarian Republic of)",NLD,VEN,0,0,0,0,0,92,92,0,0,0,0,0,108,108,389
+2022,Norway,"Venezuela (Bolivarian Republic of)",NOR,VEN,0,0,0,0,0,48,48,0,0,0,0,0,43,43,119
+2022,"New Zealand","Venezuela (Bolivarian Republic of)",NZL,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2022,Panama,"Venezuela (Bolivarian Republic of)",PAN,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,147627
+2022,Paraguay,"Venezuela (Bolivarian Republic of)",PRY,VEN,71,231,170,1505,132,0,2109,79,261,184,2039,88,0,2651,5769
+2022,Peru,"Venezuela (Bolivarian Republic of)",PER,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1506368
+2022,Poland,"Venezuela (Bolivarian Republic of)",POL,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+2022,Portugal,"Venezuela (Bolivarian Republic of)",PRT,VEN,0,0,0,0,0,13,13,0,0,0,0,0,14,14,32
+2022,"El Salvador","Venezuela (Bolivarian Republic of)",SLV,VEN,0,0,5,0,0,0,5,0,0,0,13,0,0,13,18
+2022,Spain,"Venezuela (Bolivarian Republic of)",ESP,VEN,0,0,0,0,0,74856,74856,0,0,0,0,0,64588,64588,139444
+2022,"Saint Kitts and Nevis","Venezuela (Bolivarian Republic of)",KNA,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60
+2022,Suriname,"Venezuela (Bolivarian Republic of)",SUR,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,443
+2022,Sweden,"Venezuela (Bolivarian Republic of)",SWE,VEN,0,0,0,0,0,30,30,0,0,0,0,0,29,29,100
+2022,Switzerland,"Venezuela (Bolivarian Republic of)",CHE,VEN,0,11,0,28,5,0,44,0,6,0,47,6,0,59,138
+2022,"Sint Maarten (Dutch part)","Venezuela (Bolivarian Republic of)",SXM,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,122
+2022,"Trinidad and Tobago","Venezuela (Bolivarian Republic of)",TTO,VEN,360,1249,779,8232,192,0,10812,346,1323,784,7631,240,0,10324,35314
+2022,Uruguay,"Venezuela (Bolivarian Republic of)",URY,VEN,60,245,128,1092,75,13732,15332,66,233,121,1411,40,9291,11162,26494
+2022,"United States of America","Venezuela (Bolivarian Republic of)",USA,VEN,1046,3759,2615,24122,1762,1427,34731,1070,3796,2833,24505,1160,1680,35044,393969
+2022,"Saint Vincent and the Grenadines","Venezuela (Bolivarian Republic of)",VCT,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2022,"Venezuela (Bolivarian Republic of)","Venezuela (Bolivarian Republic of)",VEN,VEN,89228,134666,245677,1168470,110115,0,1748156,86900,128506,211717,930269,101029,0,1458421,3206577
+2023,Aruba,"Venezuela (Bolivarian Republic of)",ABW,VEN,0,0,0,0,0,9053,9053,0,0,0,0,0,8032,8032,17085
+2023,Albania,"Venezuela (Bolivarian Republic of)",ALB,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2023,Argentina,"Venezuela (Bolivarian Republic of)",ARG,VEN,11,157,111,713,60,85406,86458,16,187,94,798,44,76633,77772,217742
+2023,Australia,"Venezuela (Bolivarian Republic of)",AUS,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,660
+2023,Austria,"Venezuela (Bolivarian Republic of)",AUT,VEN,9,16,7,27,0,39,98,9,17,8,38,0,43,115,213
+2023,Barbados,"Venezuela (Bolivarian Republic of)",BRB,VEN,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2023,Belgium,"Venezuela (Bolivarian Republic of)",BEL,VEN,0,0,0,0,0,581,581,0,0,0,0,0,570,570,1151
+2023,"Bolivia (Plurinational State of)","Venezuela (Bolivarian Republic of)",BOL,VEN,0,0,0,0,0,7675,7675,0,0,0,0,0,8428,8428,16350
+2023,Brazil,"Venezuela (Bolivarian Republic of)",BRA,VEN,2958,8755,6564,38714,2046,0,59037,2904,9084,6909,48448,1687,0,69032,510499
+2023,Bulgaria,"Venezuela (Bolivarian Republic of)",BGR,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2023,Canada,"Venezuela (Bolivarian Republic of)",CAN,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4932
+2023,"Cayman Islands","Venezuela (Bolivarian Republic of)",CYM,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,144
+2023,Chile,"Venezuela (Bolivarian Republic of)",CHL,VEN,85,459,305,3255,210,219957,224271,84,501,293,3401,102,215771,220152,444423
+2023,Colombia,"Venezuela (Bolivarian Republic of)",COL,VEN,58917,0,330618,1023603,63491,284,1476913,60026,0,329189,932783,41041,261,1363300,2875743
+2023,"Costa Rica","Venezuela (Bolivarian Republic of)",CRI,VEN,23,339,287,2951,412,9411,13423,34,370,300,3796,262,9037,13799,31974
+2023,"Curacao ","Venezuela (Bolivarian Republic of)",CUW,VEN,0,0,0,0,0,7980,7980,0,0,0,0,0,6020,6020,14000
+2023,Czechia,"Venezuela (Bolivarian Republic of)",CZE,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29
+2023,Denmark,"Venezuela (Bolivarian Republic of)",DNK,VEN,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2023,"Dominican Rep.","Venezuela (Bolivarian Republic of)",DOM,VEN,76,111,97,839,96,0,1219,62,94,108,493,43,0,800,124141
+2023,Ecuador,"Venezuela (Bolivarian Republic of)",ECU,VEN,36,292,342,1949,67,252932,255618,29,329,345,2052,63,216509,219327,474945
+2023,Finland,"Venezuela (Bolivarian Republic of)",FIN,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58
+2023,France,"Venezuela (Bolivarian Republic of)",FRA,VEN,0,0,0,0,0,1208,1208,0,0,0,0,0,1088,1088,2656
+2023,"United Kingdom of Great Britain and Northern Ireland","Venezuela (Bolivarian Republic of)",GBR,VEN,0,5,8,22,7,0,42,0,5,8,32,7,0,52,115
+2023,Germany,"Venezuela (Bolivarian Republic of)",DEU,VEN,162,342,249,2219,242,0,3214,166,363,279,2535,111,0,3454,6678
+2023,Greece,"Venezuela (Bolivarian Republic of)",GRC,VEN,0,0,0,7,0,6,13,0,0,0,8,0,5,13,26
+2023,Guatemala,"Venezuela (Bolivarian Republic of)",GTM,VEN,171,190,1135,3718,14,0,5228,222,249,1488,4896,10,0,6865,12093
+2023,Guyana,"Venezuela (Bolivarian Republic of)",GUY,VEN,0,0,0,0,0,0,0,0,0,7,0,0,0,7,21675
+2023,Honduras,"Venezuela (Bolivarian Republic of)",HND,VEN,0,0,0,11,0,0,11,5,0,0,17,0,0,22,60995
+2023,Iceland,"Venezuela (Bolivarian Republic of)",ISL,VEN,0,0,0,0,0,1034,1034,0,0,0,0,0,994,994,3249
+2023,India,"Venezuela (Bolivarian Republic of)",IND,VEN,0,0,0,10,0,0,10,0,0,0,0,0,0,0,10
+2023,Indonesia,"Venezuela (Bolivarian Republic of)",IDN,VEN,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2023,Ireland,"Venezuela (Bolivarian Republic of)",IRL,VEN,0,8,0,77,18,0,103,0,6,5,96,5,0,112,215
+2023,Italy,"Venezuela (Bolivarian Republic of)",ITA,VEN,0,0,0,0,0,835,835,0,0,0,0,0,780,780,5773
+2023,Luxembourg,"Venezuela (Bolivarian Republic of)",LUX,VEN,0,0,0,0,0,119,119,0,0,0,0,0,151,151,278
+2023,Mexico,"Venezuela (Bolivarian Republic of)",MEX,VEN,228,1557,1180,13588,1233,0,17786,251,1606,1302,17727,683,0,21569,127025
+2023,Malta,"Venezuela (Bolivarian Republic of)",MLT,VEN,0,0,0,0,0,9,9,0,0,0,0,0,7,7,38
+2023,"Netherlands (Kingdom of the)","Venezuela (Bolivarian Republic of)",NLD,VEN,7,9,5,45,0,124,190,6,11,11,173,0,129,330,520
+2023,Norway,"Venezuela (Bolivarian Republic of)",NOR,VEN,0,5,0,10,0,84,99,0,0,5,38,0,82,125,224
+2023,"New Zealand","Venezuela (Bolivarian Republic of)",NZL,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2023,Panama,"Venezuela (Bolivarian Republic of)",PAN,VEN,109,2059,2187,23392,2716,0,30463,137,2126,2278,20782,1572,0,26895,58243
+2023,Paraguay,"Venezuela (Bolivarian Republic of)",PRY,VEN,61,270,196,1697,35,5,2264,63,274,224,2239,11,0,2811,5394
+2023,Peru,"Venezuela (Bolivarian Republic of)",PER,VEN,56292,64726,39223,349642,17858,0,527741,60677,71725,40043,334753,8683,0,515881,1542004
+2023,Poland,"Venezuela (Bolivarian Republic of)",POL,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28
+2023,Portugal,"Venezuela (Bolivarian Republic of)",PRT,VEN,0,0,0,5,0,20,25,0,0,0,0,0,21,21,46
+2023,"El Salvador","Venezuela (Bolivarian Republic of)",SLV,VEN,7,5,5,24,0,0,41,5,9,5,48,0,0,67,108
+2023,Spain,"Venezuela (Bolivarian Republic of)",ESP,VEN,0,0,0,0,0,100050,100050,0,0,0,0,0,88159,88159,188209
+2023,Suriname,"Venezuela (Bolivarian Republic of)",SUR,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,453
+2023,Sweden,"Venezuela (Bolivarian Republic of)",SWE,VEN,0,0,7,17,0,20,44,0,0,7,22,0,36,65,109
+2023,Switzerland,"Venezuela (Bolivarian Republic of)",CHE,VEN,0,14,0,43,5,18,80,0,10,0,62,5,21,98,178
+2023,"Sint Maarten (Dutch part)","Venezuela (Bolivarian Republic of)",SXM,VEN,0,8,0,35,0,0,43,0,0,6,71,5,0,82,125
+2023,"Trinidad and Tobago","Venezuela (Bolivarian Republic of)",TTO,VEN,328,1675,1090,10814,212,0,14119,288,1723,1086,10066,258,761,14182,36218
+2023,Uruguay,"Venezuela (Bolivarian Republic of)",URY,VEN,52,308,188,1359,101,14622,16630,47,302,185,1709,60,14006,16309,32939
+2023,"United States of America","Venezuela (Bolivarian Republic of)",USA,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,550169
+2023,"Venezuela (Bolivarian Republic of)","Venezuela (Bolivarian Republic of)",VEN,VEN,89228,134666,245676,1168471,0,110115,1748156,86900,128503,211713,930273,0,101032,1458421,3206577
+2024,Aruba,"Venezuela (Bolivarian Republic of)",ABW,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11470
+2024,Albania,"Venezuela (Bolivarian Republic of)",ALB,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2024,Argentina,"Venezuela (Bolivarian Republic of)",ARG,VEN,986,7087,4769,66872,7530,0,87244,1034,7250,4834,61769,3485,0,78372,165616
+2024,Australia,"Venezuela (Bolivarian Republic of)",AUS,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,361
+2024,Austria,"Venezuela (Bolivarian Republic of)",AUT,VEN,40,21,7,81,0,0,149,34,29,16,53,0,0,132,281
+2024,Belgium,"Venezuela (Bolivarian Republic of)",BEL,VEN,0,0,0,0,0,701,701,0,0,0,0,0,675,675,1376
+2024,"Bolivia (Plurinational State of)","Venezuela (Bolivarian Republic of)",BOL,VEN,0,0,0,0,0,8828,8828,0,0,0,0,0,9647,9647,29039
+2024,Brazil,"Venezuela (Bolivarian Republic of)",BRA,VEN,3435,9963,7310,41568,2392,0,64668,3437,10360,7742,52395,2148,0,76082,626858
+2024,Canada,"Venezuela (Bolivarian Republic of)",CAN,VEN,72,339,232,1742,377,239,3001,74,314,247,2653,187,378,3853,6859
+2024,"Cayman Islands","Venezuela (Bolivarian Republic of)",CYM,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58
+2024,Chile,"Venezuela (Bolivarian Republic of)",CHL,VEN,4847,28635,19103,198627,13255,0,264467,6025,30341,18241,207515,6126,0,268248,532715
+2024,Colombia,"Venezuela (Bolivarian Republic of)",COL,VEN,45068,257395,172784,989365,48455,0,1513067,38673,278485,157748,769625,22006,0,1266537,2808968
+2024,"Costa Rica","Venezuela (Bolivarian Republic of)",CRI,VEN,32,476,447,4299,592,6509,12355,37,530,485,5325,411,6774,13562,29344
+2024,"Curacao ","Venezuela (Bolivarian Republic of)",CUW,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11593
+2024,Czechia,"Venezuela (Bolivarian Republic of)",CZE,VEN,0,0,0,0,0,0,0,0,0,0,0,0,7,7,28
+2024,Denmark,"Venezuela (Bolivarian Republic of)",DNK,VEN,0,0,0,0,0,0,0,5,0,0,0,0,5,10,10
+2024,"Dominican Rep.","Venezuela (Bolivarian Republic of)",DOM,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,125549
+2024,Ecuador,"Venezuela (Bolivarian Republic of)",ECU,VEN,8059,32259,21704,159450,9341,0,230813,8305,34536,22779,143170,5175,0,213965,444778
+2024,Finland,"Venezuela (Bolivarian Republic of)",FIN,VEN,5,0,5,22,0,0,32,0,0,0,29,0,0,29,61
+2024,France,"Venezuela (Bolivarian Republic of)",FRA,VEN,0,0,0,0,0,1445,1445,0,0,0,0,0,1281,1281,3038
+2024,"United Kingdom of Great Britain and Northern Ireland","Venezuela (Bolivarian Republic of)",GBR,VEN,0,5,13,15,11,0,44,0,5,13,15,11,0,44,117
+2024,Germany,"Venezuela (Bolivarian Republic of)",DEU,VEN,219,433,322,2797,323,0,4094,239,444,376,3063,154,5,4281,8380
+2024,Greece,"Venezuela (Bolivarian Republic of)",GRC,VEN,0,5,0,13,0,0,18,0,0,0,6,0,5,11,29
+2024,Guatemala,"Venezuela (Bolivarian Republic of)",GTM,VEN,1373,1397,9255,29907,106,0,42038,1808,1829,12211,39562,10,0,55420,97458
+2024,Guyana,"Venezuela (Bolivarian Republic of)",GUY,VEN,0,0,0,5,0,0,5,0,0,0,6,0,0,6,23411
+2024,Honduras,"Venezuela (Bolivarian Republic of)",HND,VEN,0,6,7,15,0,0,28,5,8,0,30,0,0,43,85476
+2024,Croatia,"Venezuela (Bolivarian Republic of)",HRV,VEN,0,0,0,0,0,6,6,0,0,0,0,0,0,0,6
+2024,Hungary,"Venezuela (Bolivarian Republic of)",HUN,VEN,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5
+2024,Iceland,"Venezuela (Bolivarian Republic of)",ISL,VEN,0,0,0,0,0,628,628,0,0,0,0,0,751,751,1995
+2024,India,"Venezuela (Bolivarian Republic of)",IND,VEN,0,0,0,10,0,0,10,0,0,0,0,0,0,0,10
+2024,Ireland,"Venezuela (Bolivarian Republic of)",IRL,VEN,0,8,0,69,18,0,95,0,10,0,85,5,0,100,195
+2024,Italy,"Venezuela (Bolivarian Republic of)",ITA,VEN,220,200,160,2261,111,0,2952,208,224,248,3999,51,0,4730,7682
+2024,Luxembourg,"Venezuela (Bolivarian Republic of)",LUX,VEN,0,0,0,0,0,0,0,0,0,0,5,0,0,5,335
+2024,Mexico,"Venezuela (Bolivarian Republic of)",MEX,VEN,544,1818,1291,14208,1224,0,19085,582,1913,1405,17987,696,0,22583,134126
+2024,Malta,"Venezuela (Bolivarian Republic of)",MLT,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,72
+2024,"Netherlands (Kingdom of the)","Venezuela (Bolivarian Republic of)",NLD,VEN,15,22,24,167,15,0,243,18,25,44,339,12,0,438,681
+2024,Norway,"Venezuela (Bolivarian Republic of)",NOR,VEN,5,9,13,79,0,0,106,5,6,13,107,0,0,131,237
+2024,"New Zealand","Venezuela (Bolivarian Republic of)",NZL,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2024,Panama,"Venezuela (Bolivarian Republic of)",PAN,VEN,109,2037,2167,23134,2687,0,30134,137,2105,2252,20551,1553,0,26598,57979
+2024,Paraguay,"Venezuela (Bolivarian Republic of)",PRY,VEN,68,295,214,1863,39,5,2484,70,298,245,2463,13,0,3089,5580
+2024,Peru,"Venezuela (Bolivarian Republic of)",PER,VEN,61234,70406,42664,380331,19424,0,574059,66001,78021,43557,364132,9445,0,561156,1662889
+2024,Poland,"Venezuela (Bolivarian Republic of)",POL,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31
+2024,Portugal,"Venezuela (Bolivarian Republic of)",PRT,VEN,12,11,6,58,0,0,87,0,0,0,23,6,0,29,121
+2024,"El Salvador","Venezuela (Bolivarian Republic of)",SLV,VEN,0,0,5,9,0,0,14,0,0,5,24,0,0,29,43
+2024,Spain,"Venezuela (Bolivarian Republic of)",ESP,VEN,2157,2707,2674,33881,2377,0,43796,2249,2722,2650,32440,1187,0,41248,221390
+2024,Suriname,"Venezuela (Bolivarian Republic of)",SUR,VEN,7,17,12,333,5,0,374,5,28,16,66,5,0,120,494
+2024,Sweden,"Venezuela (Bolivarian Republic of)",SWE,VEN,0,0,0,26,5,9,40,0,0,0,32,5,5,42,100
+2024,Switzerland,"Venezuela (Bolivarian Republic of)",CHE,VEN,0,16,12,62,5,23,118,0,10,10,73,5,19,117,235
+2024,"Sint Maarten (Dutch part)","Venezuela (Bolivarian Republic of)",SXM,VEN,5,0,5,37,0,0,47,7,0,0,77,5,0,89,136
+2024,"Trinidad and Tobago","Venezuela (Bolivarian Republic of)",TTO,VEN,193,1198,891,8880,178,0,11340,199,1218,875,7763,178,0,10233,29495
+2024,Uruguay,"Venezuela (Bolivarian Republic of)",URY,VEN,48,362,269,1605,152,18360,20796,43,365,243,2051,77,17591,20370,41166
+2024,"United States of America","Venezuela (Bolivarian Republic of)",USA,VEN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,648202
+2024,"Venezuela (Bolivarian Republic of)","Venezuela (Bolivarian Republic of)",VEN,VEN,19323,24825,35441,208317,19596,0,307502,19320,25058,32195,189573,16698,0,282844,590346
